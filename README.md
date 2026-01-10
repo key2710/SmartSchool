@@ -1,2 +1,2 @@
 # SmartSchool
-A web portal made by schools, for schools
+A web portal made by schools, for school
