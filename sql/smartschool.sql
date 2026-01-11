@@ -30,3 +30,4 @@ create table classi(
 	sezione varchar(3) not null,
 	indirizzo varchar(20) not null 
 );
+ciao
